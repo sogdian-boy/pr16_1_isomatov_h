@@ -1,0 +1,16 @@
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\bin\Debug\net5.0\pr16_4_isomatov_h.exe
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\bin\Debug\net5.0\pr16_4_isomatov_h.deps.json
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\bin\Debug\net5.0\pr16_4_isomatov_h.runtimeconfig.json
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\bin\Debug\net5.0\pr16_4_isomatov_h.runtimeconfig.dev.json
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\bin\Debug\net5.0\pr16_4_isomatov_h.dll
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\bin\Debug\net5.0\ref\pr16_4_isomatov_h.dll
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\bin\Debug\net5.0\pr16_4_isomatov_h.pdb
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\obj\Debug\net5.0\pr16_4_isomatov_h.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\obj\Debug\net5.0\pr16_4_isomatov_h.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\obj\Debug\net5.0\pr16_4_isomatov_h.AssemblyInfoInputs.cache
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\obj\Debug\net5.0\pr16_4_isomatov_h.AssemblyInfo.cs
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\obj\Debug\net5.0\pr16_4_isomatov_h.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\obj\Debug\net5.0\pr16_4_isomatov_h.dll
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\obj\Debug\net5.0\ref\pr16_4_isomatov_h.dll
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\obj\Debug\net5.0\pr16_4_isomatov_h.pdb
+C:\Users\305-8\Desktop\ixs\pr16_4_isomatov_h\obj\Debug\net5.0\pr16_4_isomatov_h.genruntimeconfig.cache
